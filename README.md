@@ -1,1 +1,1 @@
-# Heart_disease_Prediction
+# Heart_disease_Prediction by Logistic Regression
